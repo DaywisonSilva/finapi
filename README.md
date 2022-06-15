@@ -33,3 +33,5 @@
 [] Não deve ser possível excluir uma conta não existente
 
 [] Não deve ser possível fazer saque quando o saldo for insuficiente
+
+[] Deve ser possível retornar o balance
