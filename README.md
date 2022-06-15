@@ -22,7 +22,7 @@
 
 ### Regras de negócio
 
-:white_check_mark Não deve ser possível cadastrar uma conta com CPF já existente
+:white_check_mark: Não deve ser possível cadastrar uma conta com CPF já existente
 
 [] Não deve ser possível fazer depósito em uma conta não existente
 
